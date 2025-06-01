@@ -50,7 +50,7 @@ int deQueue() {
 ```
 
 ## Output:
-![alt text](image\Ex6-Circular-queue.\image.png)
+![alt text](image.png)
 
 ## Result:
 Thus, the C program to delete three elements from the filled circular queue is implemented successfully.
